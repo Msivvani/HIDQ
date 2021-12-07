@@ -37,7 +37,7 @@ This project focuses on building a efficient and innovative solution to this ins
 - The convertible bot can be used to inspect various systems of industries like chimney, ventilation systems, HVAC, pressurized tanks, boilers, or any confined space to detect for leakage, corrosion, cracks and other structural defects and anomalies.
 
 ### Block diagram
-![block_diagram](https://user-images.githubusercontent.com/63254914/121786411-458cd300-cbdd-11eb-865a-196d37d3b7b5.png)
+![hidq(2)](https://user-images.githubusercontent.com/63254914/145022849-699dca24-83a7-44fd-983c-b9c089ee6444.png)
 
 ----------------------
 
