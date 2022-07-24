@@ -2,6 +2,8 @@
 
 A convertible hybrid drive quadcopter that is manually controlled to move across inaccessible places as a drone or a 4-wheeler bot using a self-transforming mechanism, equipped with camera to inspect various industrial systems and check for defects and anomalies with Machine Learning and Image Processing algorithms at the controller side.
 
+This work is published under the title: "Pipeline inspection using self-transforming hybrid drive quad-copter" at the 7th International Conference on Computing in Engineering & Technology (ICCET 2022). Find the paper [here](https://digital-library.theiet.org/content/conferences/10.1049/icp.2022.0620)
+
 ### Contents 
 - [Problem statement](#problem-statement)
 - [Proposed solution](#proposed-solution)
