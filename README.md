@@ -36,7 +36,7 @@ This project focuses on building a efficient and innovative solution to this ins
 - Variable sprawl angle using self-locking gears to change dimension of bot to required arena/space.
 - Automated crack and rust detection using integrated Image processing and Deep learning using Convolutional Neural Network
 - Data processed and stored for future usage.
-- The convertible bot can be used to inspect various systems of industries like chimney, ventilation systems, HVAC, pressurized tanks, boilers, or any confined space to detect for leakage, corrosion, cracks and other structural defects and anomalies.
+- The convertible bot can be used to inspect various systems of industries like chimney, ventilation systems, HVAC, pressurized tanks, boilers, or any confined space to detect for leakage, corrosion, cracks and other structural defects.
 
 ### Block diagram
 ![hidq(2)](https://user-images.githubusercontent.com/63254914/145022849-699dca24-83a7-44fd-983c-b9c089ee6444.png)
